@@ -27,4 +27,7 @@ x86 or x64 machine (ARM or ARM64 is not tested)
 ### Remarks
 This API function is very buggy on Windows 10, that's where most other PoCs fail. Especially when the executable is Win32 (x86).
 
-#[License](https://github.com/BlackOfWorld/NtCreateUserProcess/LICENSE.md)
+
+[License](https://github.com/BlackOfWorld/NtCreateUserProcess/LICENSE.md)
+
+Please consider checking out my library [Windows-Native](https://github.com/BlackOfWorld/Windows-Native)
